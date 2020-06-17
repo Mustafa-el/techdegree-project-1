@@ -8,3 +8,16 @@ h1 {
   display: inline;
   text-align: center;
 }
+
+.profile-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 80%;
+    border: 5px solid rgb(204, 9, 197);
+}
+
+.background {
+    background: url('images/background.jpg') no-repeat top center ;
+}
