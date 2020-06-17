@@ -21,3 +21,11 @@ h1 {
 .background {
     background: url('images/background.jpg') no-repeat top center ;
 }
+
+.About {
+    text-align: left;
+}
+
+p {
+    font-size: large;
+}
