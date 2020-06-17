@@ -1,0 +1,10 @@
+h1 {
+ font-size: xx-large;
+ margin: 0;
+ text-align: center ;
+}
+
+.main-nav {
+  display: inline;
+  text-align: center;
+}
