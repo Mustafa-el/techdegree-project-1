@@ -18,6 +18,9 @@ h1 {
     border: 5px solid rgb(204, 9, 197);
 }
 
+.profile-image:hover {
+    transform: scale(1.1);
+}
 .background {
     background: url('images/background.jpg') no-repeat top center ;
 }
@@ -28,4 +31,18 @@ h1 {
 
 p {
     font-size: large;
+}
+
+.contact {
+    display: inline;
+    padding: 0;
+}
+
+.github {
+    height: 50px;
+    width: 50px;
+}
+
+.info {
+    display: inline;
 }
