@@ -1,0 +1,49 @@
+h1 {
+ font-size: xx-large;
+ margin: 0;
+ text-align: center ;
+}
+
+.main-nav {
+  display: inline;
+  text-align: center;
+}
+
+.profile-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 80%;
+    border: 5px solid rgb(204, 9, 197);
+}
+
+.profile-image:hover {
+    transform: scale(1.1);
+}
+.background {
+    background: url('images/background.jpg') no-repeat top center ;
+    height: 350px ;
+}
+
+.About {
+    text-align: left;
+}
+
+p {
+    font-size: large;
+}
+
+.contact {
+    display: inline;
+    padding: 0;
+}
+
+.github {
+    height: 50px;
+    width: 50px;
+}
+
+.info {
+    display: inline;
+}
